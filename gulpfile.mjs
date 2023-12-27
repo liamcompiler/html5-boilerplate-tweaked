@@ -15,7 +15,8 @@ const pkg = require('./package.json');
 const dirs = pkg['h5bp-configs'].directories;
 
 // ---------------------------------------------------------------------
-// | Helper tasks                                                      |
+// | Helper tasks here|
+// or ......
 // ---------------------------------------------------------------------
 
 gulp.task('archive:create_archive_dir', (done) => {
